@@ -1,5 +1,11 @@
 # CipherStudio - Advanced Browser-Based React IDE
 
+[![GitHub](https://img.shields.io/badge/GitHub-THECODEZON-blue)](https://github.com/THECODEZON/Cipher-schoolcode-platform)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-18-blue)](https://reactjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
+
 CipherStudio is a modern, feature-rich browser-based React IDE that provides a complete development environment for React projects. Built with Next.js, Monaco Editor, and Sandpack, it offers professional-grade features for coding, testing, and deployment.
 
 ## 🚀 Core Features
@@ -67,8 +73,8 @@ CipherStudio is a modern, feature-rich browser-based React IDE that provides a c
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd CipherStudio
+   git clone https://github.com/THECODEZON/Cipher-schoolcode-platform.git
+   cd Cipher-schoolcode-platform
    ```
 
 2. **Install root dependencies**
