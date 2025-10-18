@@ -1,0 +1,19 @@
+{
+  "name": "cipherstudio",
+  "version": "1.0.0",
+  "description": "A browser-based React IDE",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:frontend\" \"npm run dev:backend\"",
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "start": "cd frontend && npm run start"
+  },
+  "keywords": ["react", "ide", "monaco", "sandpack"],
+  "author": "CipherStudio Team",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
